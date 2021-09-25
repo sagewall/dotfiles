@@ -1,0 +1,77 @@
+colorscheme slate 
+syntax on
+set number
+set tabstop=2
+set softtabstop=2
+set expandtab
+set autoindent
+set hlsearch
+set ignorecase
+set incsearch
+
+" gitmoji icon abreviations
+ab :art: 🎨
+ab :zap: ⚡️
+ab :fire: 🔥
+ab :bug: 🐛
+ab :ambulance: 🚑️
+ab :sparkles: ✨
+ab :memo: 📝
+ab :rocket: 🚀
+ab :lipstick: 💄
+ab :tada: 🎉
+ab :white_check_mark: ✅
+ab :lock: 🔒️
+ab :bookmark: 🔖
+ab :rotating_light: 🚨
+ab :construction: 🚧
+ab :green_heart: 💚
+ab :arrow_down: ⬇️
+ab :arrow_up: ⬆️
+ab :pushpin: 📌
+ab :construction_worker: 👷
+ab :chart_with_upwards_trend: 📈
+ab :recycle: ♻️
+ab :heavy_plus_sign: ➕
+ab :heavy_minus_sign: ➖
+ab :wrench: 🔧
+ab :hammer: 🔨
+ab :globe_with_meridians: 🌐
+ab :pencil2: ✏️
+ab :poop: 💩
+ab :rewind: ⏪️
+ab :twisted_rightwards_arrows: 🔀
+ab :package: 📦️
+ab :alien: 👽️
+ab :truck: 🚚
+ab :page_facing_up: 📄
+ab :boom: 💥
+ab :bento: 🍱
+ab :wheelchair: ♿️
+ab :bulb: 💡
+ab :beers: 🍻
+ab :speech_balloon: 💬
+ab :card_file_box: 🗃️
+ab :loud_sound: 🔊
+ab :mute: 🔇
+ab :busts_in_silhouette: 👥
+ab :children_crossing: 🚸
+ab :building_construction: 🏗️
+ab :iphone: 📱
+ab :clown_face: 🤡
+ab :egg: 🥚
+ab :see_no_evil: 🙈
+ab :camera_flash: 📸
+ab :alembic: ⚗️
+ab :mag: 🔍️
+ab :label: 🏷️
+ab :seedling: 🌱
+ab :triangular_flag_on_post: 🚩
+ab :goal_net: 🥅
+ab :dizzy: 💫
+ab :wastebasket: 🗑️
+ab :passport_control: 🛂
+ab :adhesive_bandage: 🩹
+ab :monocle_face: 🧐
+ab :coffin: ⚰️
+
